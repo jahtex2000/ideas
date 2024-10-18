@@ -8,3 +8,4 @@
 - [x] RxSwift by tutorials
 - [x] Mastering git
 - [ ] Website designing for beginners
+- [ ] Debugging with the Grace Hopper Method
