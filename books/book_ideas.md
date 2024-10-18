@@ -10,3 +10,4 @@
 - [ ] Website designing for beginners
 - [ ] Debugging with the Grace Hopper Method
 - [ ] Blockchains with BASIC
+- [x] Website for developers, Bricklayer and Plumber
